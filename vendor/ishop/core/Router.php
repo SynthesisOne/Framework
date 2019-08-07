@@ -44,6 +44,7 @@ class Router{
                 foreach($matches as $k => $v){
                     if(is_string($k)){
                         $route[$k] = $v;
+
                     }
                 }
                 if(empty($route['action'])){

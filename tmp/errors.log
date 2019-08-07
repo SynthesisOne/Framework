@@ -50,3 +50,13 @@
 =================
 [2017-08-21 11:34:13] Текст ошибки: Страница не найдена | Файл: D:\WebServer\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка: 37
 =================
+[2019-08-06 19:50:15] Текст ошибки: Страница не найдена | Файл: D:\Documents\OSPanel\domains\Framework\vendor\ishop\core\Router.php | Строка: 37
+=================
+[2019-08-06 20:11:13] Текст ошибки: Контроллер app\controllers\PagesController не найден | Файл: D:\Documents\OSPanel\domains\Framework\vendor\ishop\core\Router.php | Строка: 34
+=================
+[2019-08-06 20:23:04] Текст ошибки: Контроллер app\controllers\PagesController не найден | Файл: D:\Documents\OSPanel\domains\Framework\vendor\ishop\core\Router.php | Строка: 34
+=================
+[2019-08-06 23:48:29] Текст ошибки: Контроллер app\controllers\PagesController не найден | Файл: D:\Documents\OSPanel\domains\Framework\vendor\ishop\core\Router.php | Строка: 34
+=================
+[2019-08-07 11:41:37] Текст ошибки: Страница не найдена | Файл: D:\Documents\OSPanel\domains\Framework\vendor\ishop\core\Router.php | Строка: 37
+=================
