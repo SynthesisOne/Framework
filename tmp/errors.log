@@ -52,3 +52,13 @@
 =================
 [2017-08-21 12:29:54] Текст ошибки: Страница не найдена | Файл: D:\WebServer\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка: 37
 =================
+[2019-08-09 14:31:12] Текст ошибки: Call to undefined method app\controllers\PageController::getView() | Файл: D:\Documents\OSPanel\domains\Framework\vendor\ishop\core\Router.php | Строка: 30
+=================
+[2019-08-09 14:31:14] Текст ошибки: Call to undefined method app\controllers\PageController::getView() | Файл: D:\Documents\OSPanel\domains\Framework\vendor\ishop\core\Router.php | Строка: 30
+=================
+[2019-08-09 14:34:22] Текст ошибки: Метод app\controllers\MainController::viewAction не найден | Файл: D:\Documents\OSPanel\domains\Framework\vendor\ishop\core\Router.php | Строка: 32
+=================
+[2019-08-09 15:01:06] Текст ошибки: Страница не найдена | Файл: D:\Documents\OSPanel\domains\Framework\vendor\ishop\core\Router.php | Строка: 38
+=================
+[2019-08-09 15:40:14] Текст ошибки: Метод app\controllers\MainController::viewAction не найден | Файл: D:\Documents\OSPanel\domains\Framework\vendor\ishop\core\Router.php | Строка: 32
+=================
