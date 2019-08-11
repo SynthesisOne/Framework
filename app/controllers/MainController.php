@@ -12,8 +12,8 @@ class MainController extends AppController {
         $this->setMeta('Главная страница', 'Описание...', 'Ключевики...');
         $name = 'John';
         $age = 30;
-
-        $this->set(['name' => 'John','age'=>'30']);
+        $names = ['Andrey', 'Jane',];
+        $this->set(compact('name', 'age', 'names'));
     }
 
 }
