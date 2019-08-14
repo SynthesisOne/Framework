@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataSource name="@localhost">
+  <database-model serializer="dbm" rdbms="MYSQL" format-version="4.2">
+    <root id="1"/>
+    <schema id="2" parent="1" name="angularjs">
+      <Current>1</Current>
+      <Visible>1</Visible>
+    </schema>
+    <schema id="3" parent="1" name="cake"/>
+    <schema id="4" parent="1" name="cake_mini"/>
+    <schema id="5" parent="1" name="catalog"/>
+    <schema id="6" parent="1" name="dle"/>
+    <schema id="7" parent="1" name="fw"/>
+    <schema id="8" parent="1" name="information_schema"/>
+    <schema id="9" parent="1" name="ishop2"/>
+    <schema id="10" parent="1" name="mysql"/>
+    <schema id="11" parent="1" name="oc"/>
+    <schema id="12" parent="1" name="oc21"/>
+    <schema id="13" parent="1" name="ocstore"/>
+    <schema id="14" parent="1" name="opencart"/>
+    <schema id="15" parent="1" name="performance_schema"/>
+    <schema id="16" parent="1" name="test"/>
+    <schema id="17" parent="1" name="wordpress"/>
+    <schema id="18" parent="1" name="world"/>
+    <schema id="19" parent="1" name="yii2_loc"/>
+    <schema id="20" parent="1" name="yii2_mini"/>
+    <table id="21" parent="2" name="books"/>
+    <column id="22" parent="21" name="id">
+      <Position>1</Position>
+      <DataType>int(10) unsigned|0</DataType>
+      <NotNull>1</NotNull>
+      <SequenceIdentity>1</SequenceIdentity>
+    </column>
+    <column id="23" parent="21" name="title">
+      <Position>2</Position>
+      <DataType>varchar(255)|0</DataType>
+      <NotNull>1</NotNull>
+    </column>
+    <column id="24" parent="21" name="author">
+      <Position>3</Position>
+      <DataType>varchar(255)|0</DataType>
+      <NotNull>1</NotNull>
+    </column>
+    <column id="25" parent="21" name="year">
+      <Position>4</Position>
+      <DataType>year(4)|0</DataType>
+      <NotNull>1</NotNull>
+    </column>
+    <column id="26" parent="21" name="price">
+      <Position>5</Position>
+      <DataType>float|0</DataType>
+      <NotNull>1</NotNull>
+      <DefaultExpression>&apos;0&apos;</DefaultExpression>
+    </column>
+    <column id="27" parent="21" name="pic">
+      <Position>6</Position>
+      <DataType>varchar(255)|0</DataType>
+      <NotNull>1</NotNull>
+      <DefaultExpression>&apos;no_img.jpg&apos;</DefaultExpression>
+    </column>
+    <key id="28" parent="21" name="PRIMARY">
+      <NameSurrogate>1</NameSurrogate>
+      <ColNames>id</ColNames>
+      <Primary>1</Primary>
+    </key>
+  </database-model>
+</dataSource>

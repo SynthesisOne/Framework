@@ -34,7 +34,6 @@ class View {
             ob_start();
             require_once $viewFile;
             $content = ob_get_clean();
-            
         }else{
             throw new \Exception("На найден вид {$viewFile}", 500);
         }

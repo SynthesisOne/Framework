@@ -272,13 +272,19 @@
 =================
 [2017-08-22 08:54:19] Текст ошибки: Страница не найдена | Файл: D:\WebServer\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка: 39
 =================
-[2019-08-13 21:42:40] Текст ошибки: Контроллер app\controllers\ViewController не найден | Файл: D:\Documents\OSPanel\domains\Framework\vendor\ishop\core\Router.php | Строка: 36
+[2017-08-22 12:09:30] Текст ошибки: Страница не найдена | Файл: D:\WebServer\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка: 39
 =================
-[2019-08-13 21:42:41] Текст ошибки: Контроллер app\controllers\ViewController не найден | Файл: D:\Documents\OSPanel\domains\Framework\vendor\ishop\core\Router.php | Строка: 36
+[2017-08-22 12:09:30] Текст ошибки: Страница не найдена | Файл: D:\WebServer\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка: 39
 =================
-[2019-08-13 21:42:47] Текст ошибки: Контроллер app\controllers\PageController не найден | Файл: D:\Documents\OSPanel\domains\Framework\vendor\ishop\core\Router.php | Строка: 36
+[2017-08-22 12:54:44] Текст ошибки: Страница не найдена | Файл: D:\WebServer\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка: 39
 =================
-[2019-08-13 21:47:15] Текст ошибки: Контроллер app\controllers\PageController не найден | Файл: D:\Documents\OSPanel\domains\Framework\vendor\ishop\core\Router.php | Строка: 36
+[2017-08-22 13:12:46] Текст ошибки: Контроллер app\controllers\CartController не найден | Файл: D:\WebServer\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка: 36
 =================
-[2019-08-13 21:47:18] Текст ошибки: Контроллер app\controllers\PageController не найден | Файл: D:\Documents\OSPanel\domains\Framework\vendor\ishop\core\Router.php | Строка: 36
+[2017-08-22 16:29:27] Текст ошибки: Страница не найдена | Файл: D:\WebServer\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2017-08-22 16:29:27] Текст ошибки: Страница не найдена | Файл: D:\WebServer\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-08-15 00:17:03] Текст ошибки: syntax error, unexpected 'else' (T_ELSE), expecting function (T_FUNCTION) or const (T_CONST) | Файл: D:\Documents\OSPanel\domains\Framework\app\widgets\currency\Currency.php | Строка: 30
+=================
+[2019-08-15 00:17:05] Текст ошибки: syntax error, unexpected 'else' (T_ELSE), expecting function (T_FUNCTION) or const (T_CONST) | Файл: D:\Documents\OSPanel\domains\Framework\app\widgets\currency\Currency.php | Строка: 30
 =================
