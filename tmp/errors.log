@@ -284,7 +284,9 @@
 =================
 [2017-08-22 16:29:27] Текст ошибки: Страница не найдена | Файл: D:\WebServer\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка: 39
 =================
-[2019-08-15 00:17:03] Текст ошибки: syntax error, unexpected 'else' (T_ELSE), expecting function (T_FUNCTION) or const (T_CONST) | Файл: D:\Documents\OSPanel\domains\Framework\app\widgets\currency\Currency.php | Строка: 30
+[2019-08-15 15:23:11] Текст ошибки: Class 'App' not found | Файл: D:\Documents\OSPanel\domains\Framework\app\views\Main\index.php | Строка: 44
 =================
-[2019-08-15 00:17:05] Текст ошибки: syntax error, unexpected 'else' (T_ELSE), expecting function (T_FUNCTION) or const (T_CONST) | Файл: D:\Documents\OSPanel\domains\Framework\app\widgets\currency\Currency.php | Строка: 30
+[2019-08-15 15:23:25] Текст ошибки: Class 'App' not found | Файл: D:\Documents\OSPanel\domains\Framework\app\views\Main\index.php | Строка: 44
+=================
+[2019-08-15 15:38:45] Текст ошибки: Страница не найдена | Файл: D:\Documents\OSPanel\domains\Framework\vendor\ishop\core\Router.php | Строка: 39
 =================
