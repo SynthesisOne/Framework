@@ -446,3 +446,5 @@
 =================
 [2019-08-19 20:54:41] Текст ошибки: syntax error, unexpected 'endif' (T_ENDIF) | Файл: D:\Documents\OSPanel\domains\Framework\app\views\Main\index.php | Строка: 67
 =================
+[2019-08-19 21:05:06] Текст ошибки: Контроллер app\controllers\CategoryController не найден | Файл: D:\Documents\OSPanel\domains\Framework\vendor\ishop\core\Router.php | Строка: 36
+=================
