@@ -46,7 +46,6 @@
     <div class="container">
         <div class="product-top">
             <div class="product-one">
-
             <?php foreach($hits as $hit): ?>
                 <div class="col-md-3 product-left">
                     <div class="product-main simpleCart_shelfItem">
@@ -61,11 +60,9 @@
                             <?php endif; ?>
                             </h4>
                         </div>
-                        <?php if($hit->old_price): ?>
                         <div class="srch">
-                            <span><?php echo round(100 - ($hit->price*100/$hit->old_price), '1') . '%'; ?></span>
+                            <span>-50%</span>
                         </div>
-                          <?php endif; ?>
                     </div>
                 </div>
             <?php endforeach; ?>
