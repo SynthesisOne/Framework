@@ -18,7 +18,7 @@ class Breadcrumbs{
         if($name){
             $breadcrumbs .= "<li>$name</li>";
         }
-        return $breadcrumbs;
+        return $breadcrumbs; 
     }
 
     public static function getParts($cats, $id){
