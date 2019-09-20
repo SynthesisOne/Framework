@@ -145,11 +145,9 @@
                                         <?php endif; ?>
                                     </h4>
                                 </div>
-                                <?php if($item['old_price']): ?>
-                                    <div class="srch">
-                                        <span><?php echo round(100 - ($item['price']*100/$item['old_price']), '1') . '%'; ?></span>
-                                    </div>
-                                <?php endif; ?>
+                                <div class="srch">
+                                    <span>-50%</span>
+                                </div>
                             </div>
                         </div>
                         <?php endforeach; ?>
@@ -177,11 +175,9 @@
                                                 <?php endif; ?>
                                             </h4>
                                         </div>
-                                        <?php if($item->old_price): ?>
-                                            <div class="srch">
-                                                <span><?php echo round(100 - ($item['price']*100/$item['old_price']), '1') . '%'; ?></span>
-                                            </div>
-                                        <?php endif; ?>
+                                        <div class="srch">
+                                            <span>-50%</span>
+                                        </div>
                                     </div>
                                 </div>
                             <?php endforeach; ?>
