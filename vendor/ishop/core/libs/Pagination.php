@@ -56,7 +56,9 @@ class Pagination{
         return '<ul class="pagination">' . $startpage.$back.$page2left.$page1left.'<li class="active"><a>'.$this->currentPage.'</a></li>'.$page1right.$page2right.$forward.$endpage . '</ul>';
     }
 
-
+    public function __toString(){
+        return $this->getHtml();
+    }
 
     public function getCountPages(){
         return ceil($this->total / $this->perpage) ?: 1;
