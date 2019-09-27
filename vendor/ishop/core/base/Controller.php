@@ -19,7 +19,6 @@ abstract class Controller{
         $this->model = $route['controller'];
         $this->view = $route['action'];
         $this->prefix = $route['prefix'];
-
     }
 
     public function getView(){
