@@ -84,7 +84,7 @@ class CartController extends AppController {
             $user_email = isset($_SESSION['user']['email']) ? $_SESSION['user']['email'] : $_POST['email'];
             $order_id = new Order();
             $order_id->saveOrder($data);
-
+             $order_id->mailOrder($order_id, $user_email);
         }
         redirect();
     }
