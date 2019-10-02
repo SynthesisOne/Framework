@@ -506,3 +506,217 @@
 =================
 [2017-09-02 15:42:39] Текст ошибки: Страница не найдена | Файл: D:\WebServer\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка: 39
 =================
+[2019-10-02 14:35:41] Текст ошибки: Страница не найдена | Файл: W:\domains\Framework\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-10-02 14:35:41] Текст ошибки: Страница не найдена | Файл: W:\domains\Framework\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-10-02 14:35:41] Текст ошибки: Страница не найдена | Файл: W:\domains\Framework\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-10-02 14:35:41] Текст ошибки: Страница не найдена | Файл: W:\domains\Framework\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-10-02 14:35:41] Текст ошибки: Страница не найдена | Файл: W:\domains\Framework\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-10-02 14:35:41] Текст ошибки: Страница не найдена | Файл: W:\domains\Framework\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-10-02 14:35:41] Текст ошибки: Страница не найдена | Файл: W:\domains\Framework\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-10-02 14:35:41] Текст ошибки: Страница не найдена | Файл: W:\domains\Framework\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-10-02 14:35:42] Текст ошибки: Страница не найдена | Файл: W:\domains\Framework\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-10-02 14:35:43] Текст ошибки: Страница не найдена | Файл: W:\domains\Framework\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-10-02 14:35:43] Текст ошибки: Страница не найдена | Файл: W:\domains\Framework\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-10-02 14:35:43] Текст ошибки: Страница не найдена | Файл: W:\domains\Framework\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-10-02 14:35:43] Текст ошибки: Страница не найдена | Файл: W:\domains\Framework\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-10-02 14:35:43] Текст ошибки: Страница не найдена | Файл: W:\domains\Framework\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-10-02 14:35:43] Текст ошибки: Страница не найдена | Файл: W:\domains\Framework\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-10-02 14:35:43] Текст ошибки: Страница не найдена | Файл: W:\domains\Framework\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-10-02 14:35:43] Текст ошибки: Страница не найдена | Файл: W:\domains\Framework\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-10-02 14:42:50] Текст ошибки: Страница не найдена | Файл: W:\domains\Framework\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-10-02 14:43:06] Текст ошибки: Страница не найдена | Файл: W:\domains\Framework\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-10-02 14:43:07] Текст ошибки: Страница не найдена | Файл: W:\domains\Framework\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-10-02 14:43:12] Текст ошибки: Expected response code 250 but got code "535", with message "535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials m21sm4594778lfh.39 - gsmtp
+" | Файл: W:\domains\Framework\vendor\swiftmailer\swiftmailer\lib\classes\Swift\Transport\AbstractSmtpTransport.php | Строка: 383
+=================
+[2019-10-02 14:44:40] Текст ошибки: Expected response code 250 but got code "535", with message "535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials o13sm4691238ljh.35 - gsmtp
+" | Файл: W:\domains\Framework\vendor\swiftmailer\swiftmailer\lib\classes\Swift\Transport\AbstractSmtpTransport.php | Строка: 383
+=================
+[2019-10-02 14:47:51] Текст ошибки: Expected response code 250 but got code "535", with message "535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials y4sm4759153ljd.82 - gsmtp
+" | Файл: W:\domains\Framework\vendor\swiftmailer\swiftmailer\lib\classes\Swift\Transport\AbstractSmtpTransport.php | Строка: 383
+=================
+[2019-10-02 14:50:52] Текст ошибки: syntax error, unexpected 'debug' (T_STRING) | Файл: W:\domains\Framework\app\models\Order.php | Строка: 51
+=================
+[2019-10-02 14:50:55] Текст ошибки: syntax error, unexpected 'debug' (T_STRING) | Файл: W:\domains\Framework\app\models\Order.php | Строка: 51
+=================
+[2019-10-02 14:51:06] Текст ошибки: syntax error, unexpected 'var_dump' (T_STRING) | Файл: W:\domains\Framework\app\models\Order.php | Строка: 51
+=================
+[2019-10-02 14:51:17] Текст ошибки: Expected response code 250 but got code "535", with message "535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials m6sm4798354ljj.3 - gsmtp
+" | Файл: W:\domains\Framework\vendor\swiftmailer\swiftmailer\lib\classes\Swift\Transport\AbstractSmtpTransport.php | Строка: 383
+=================
+[2019-10-02 14:51:38] Текст ошибки: Страница не найдена | Файл: W:\domains\Framework\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-10-02 14:53:33] Текст ошибки: Expected response code 250 but got code "535", with message "535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials o5sm4544702lfn.42 - gsmtp
+" | Файл: W:\domains\Framework\vendor\swiftmailer\swiftmailer\lib\classes\Swift\Transport\AbstractSmtpTransport.php | Строка: 383
+=================
+[2019-10-02 15:00:18] Текст ошибки: Expected response code 250 but got code "535", with message "535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials k15sm4766007ljg.65 - gsmtp
+" | Файл: W:\domains\Framework\vendor\swiftmailer\swiftmailer\lib\classes\Swift\Transport\AbstractSmtpTransport.php | Строка: 383
+=================
+[2019-10-02 15:07:26] Текст ошибки: Страница не найдена | Файл: W:\domains\Framework\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-10-02 15:09:18] Текст ошибки: Expected response code 250 but got code "535", with message "535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials p3sm4823545ljn.78 - gsmtp
+" | Файл: W:\domains\Framework\vendor\swiftmailer\swiftmailer\lib\classes\Swift\Transport\AbstractSmtpTransport.php | Строка: 383
+=================
+[2019-10-02 15:09:23] Текст ошибки: Страница не найдена | Файл: W:\domains\Framework\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-10-02 15:09:27] Текст ошибки: Expected response code 250 but got code "535", with message "535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials c15sm4686334ljf.1 - gsmtp
+" | Файл: W:\domains\Framework\vendor\swiftmailer\swiftmailer\lib\classes\Swift\Transport\AbstractSmtpTransport.php | Строка: 383
+=================
+[2019-10-02 15:09:30] Текст ошибки: Страница не найдена | Файл: W:\domains\Framework\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-10-02 16:32:18] Текст ошибки: Страница не найдена | Файл: W:\domains\Framework\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-10-02 16:32:21] Текст ошибки: Expected response code 250 but got code "535", with message "535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials a23sm4646513lfl.66 - gsmtp
+" | Файл: W:\domains\Framework\vendor\swiftmailer\swiftmailer\lib\classes\Swift\Transport\AbstractSmtpTransport.php | Строка: 383
+=================
+[2019-10-02 16:32:24] Текст ошибки: Expected response code 250 but got code "535", with message "535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials 14sm4723719ljs.71 - gsmtp
+" | Файл: W:\domains\Framework\vendor\swiftmailer\swiftmailer\lib\classes\Swift\Transport\AbstractSmtpTransport.php | Строка: 383
+=================
+[2019-10-02 16:32:41] Текст ошибки: Expected response code 250 but got code "535", with message "535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials l7sm4713275lji.46 - gsmtp
+" | Файл: W:\domains\Framework\vendor\swiftmailer\swiftmailer\lib\classes\Swift\Transport\AbstractSmtpTransport.php | Строка: 383
+=================
+[2019-10-02 17:02:15] Текст ошибки: Страница не найдена | Файл: W:\domains\Framework\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-10-02 17:02:18] Текст ошибки: Страница не найдена | Файл: W:\domains\Framework\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-10-02 17:03:09] Текст ошибки: Expected response code 250 but got code "535", with message "535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials t10sm4903617ljt.68 - gsmtp
+" | Файл: W:\domains\Framework\vendor\swiftmailer\swiftmailer\lib\classes\Swift\Transport\AbstractSmtpTransport.php | Строка: 383
+=================
+[2019-10-02 17:03:10] Текст ошибки: Страница не найдена | Файл: W:\domains\Framework\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-10-02 17:03:11] Текст ошибки: Страница не найдена | Файл: W:\domains\Framework\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-10-02 17:03:12] Текст ошибки: Страница не найдена | Файл: W:\domains\Framework\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-10-02 17:03:17] Текст ошибки: Страница не найдена | Файл: W:\domains\Framework\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-10-02 17:03:17] Текст ошибки: Страница не найдена | Файл: W:\domains\Framework\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-10-02 17:03:18] Текст ошибки: Страница не найдена | Файл: W:\domains\Framework\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-10-02 17:03:18] Текст ошибки: Страница не найдена | Файл: W:\domains\Framework\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-10-02 17:03:18] Текст ошибки: Страница не найдена | Файл: W:\domains\Framework\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-10-02 17:03:18] Текст ошибки: Страница не найдена | Файл: W:\domains\Framework\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-10-02 17:03:18] Текст ошибки: Страница не найдена | Файл: W:\domains\Framework\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-10-02 17:03:18] Текст ошибки: Страница не найдена | Файл: W:\domains\Framework\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-10-02 17:03:19] Текст ошибки: Страница не найдена | Файл: W:\domains\Framework\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-10-02 17:03:22] Текст ошибки: Страница не найдена | Файл: W:\domains\Framework\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-10-02 17:03:37] Текст ошибки: Страница не найдена | Файл: W:\domains\Framework\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-10-02 17:04:30] Текст ошибки: Страница не найдена | Файл: W:\domains\Framework\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-10-02 17:04:30] Текст ошибки: Страница не найдена | Файл: W:\domains\Framework\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-10-02 17:04:30] Текст ошибки: Страница не найдена | Файл: W:\domains\Framework\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-10-02 17:04:30] Текст ошибки: Страница не найдена | Файл: W:\domains\Framework\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-10-02 17:04:30] Текст ошибки: Страница не найдена | Файл: W:\domains\Framework\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-10-02 17:04:30] Текст ошибки: Страница не найдена | Файл: W:\domains\Framework\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-10-02 17:04:30] Текст ошибки: Страница не найдена | Файл: W:\domains\Framework\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-10-02 17:04:30] Текст ошибки: Страница не найдена | Файл: W:\domains\Framework\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-10-02 17:04:32] Текст ошибки: Страница не найдена | Файл: W:\domains\Framework\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-10-02 17:04:32] Текст ошибки: Страница не найдена | Файл: W:\domains\Framework\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-10-02 17:04:32] Текст ошибки: Страница не найдена | Файл: W:\domains\Framework\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-10-02 17:04:32] Текст ошибки: Страница не найдена | Файл: W:\domains\Framework\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-10-02 17:04:32] Текст ошибки: Страница не найдена | Файл: W:\domains\Framework\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-10-02 17:04:32] Текст ошибки: Страница не найдена | Файл: W:\domains\Framework\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-10-02 17:04:32] Текст ошибки: Страница не найдена | Файл: W:\domains\Framework\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-10-02 17:04:32] Текст ошибки: Страница не найдена | Файл: W:\domains\Framework\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-10-02 17:04:39] Текст ошибки: Страница не найдена | Файл: W:\domains\Framework\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-10-02 17:04:39] Текст ошибки: Страница не найдена | Файл: W:\domains\Framework\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-10-02 17:04:39] Текст ошибки: Страница не найдена | Файл: W:\domains\Framework\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-10-02 17:04:39] Текст ошибки: Страница не найдена | Файл: W:\domains\Framework\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-10-02 17:04:39] Текст ошибки: Страница не найдена | Файл: W:\domains\Framework\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-10-02 17:04:39] Текст ошибки: Страница не найдена | Файл: W:\domains\Framework\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-10-02 17:04:39] Текст ошибки: Страница не найдена | Файл: W:\domains\Framework\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-10-02 17:04:39] Текст ошибки: Страница не найдена | Файл: W:\domains\Framework\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-10-02 17:05:03] Текст ошибки: Страница не найдена | Файл: W:\domains\Framework\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-10-02 17:05:03] Текст ошибки: Страница не найдена | Файл: W:\domains\Framework\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-10-02 17:05:03] Текст ошибки: Страница не найдена | Файл: W:\domains\Framework\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-10-02 17:05:03] Текст ошибки: Страница не найдена | Файл: W:\domains\Framework\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-10-02 17:05:03] Текст ошибки: Страница не найдена | Файл: W:\domains\Framework\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-10-02 17:05:03] Текст ошибки: Страница не найдена | Файл: W:\domains\Framework\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-10-02 17:05:03] Текст ошибки: Страница не найдена | Файл: W:\domains\Framework\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-10-02 17:05:03] Текст ошибки: Страница не найдена | Файл: W:\domains\Framework\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-10-02 17:06:35] Текст ошибки: Страница не найдена | Файл: W:\domains\Framework\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-10-02 17:06:36] Текст ошибки: Страница не найдена | Файл: W:\domains\Framework\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-10-02 17:10:04] Текст ошибки: Страница не найдена | Файл: W:\domains\Framework\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-10-02 17:10:12] Текст ошибки: Страница не найдена | Файл: W:\domains\Framework\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-10-02 17:10:30] Текст ошибки: Страница не найдена | Файл: W:\domains\Framework\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-10-02 17:10:34] Текст ошибки: Expected response code 250 but got code "535", with message "535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials z1sm4782745ljh.88 - gsmtp
+" | Файл: W:\domains\Framework\vendor\swiftmailer\swiftmailer\lib\classes\Swift\Transport\AbstractSmtpTransport.php | Строка: 383
+=================

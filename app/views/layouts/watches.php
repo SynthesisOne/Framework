@@ -27,10 +27,12 @@ License URL: http://creativecommons.org/licenses/by/3.0/
             <div class="col-md-6 top-header-left">
                 <div class="drop">
                     <div class="box">
+
                         <select id="currency" tabindex="4" class="dropdown drop">
                             <?php new \app\widgets\currency\Currency(); ?>
                         </select>
                     </div>
+
                     <div class="btn-group">
                         <a class="dropdown-toggle" data-toggle="dropdown">Account <span class="caret"></span></a>
                         <ul class="dropdown-menu">
